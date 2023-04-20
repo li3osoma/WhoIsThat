@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Who is that?</string>
+
+    <string name="play_button_text">Play</string>
+    <string name="about_button_text">About</string>
+    <string name="settings_button_text">Settings</string>
+    <string name="exit_button_text">Exit</string>
+
+    <string name="about_title">About</string>
+    <string name="settings_title">Settings</string>
+
+    <string name="about_text">bla bla bla</string>
+    <string name="settings_text">Number of characters:</string>
+
+    <string name="player1_screen_text">Player 1</string>
+    <string name="player2_screen_text">Player 2</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="confirm_button">Confirm</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string-array name="chars">
+        <item>Uzumaki Naruto</item>
+        <item>Uchiha Sasuke</item>
+        <item>Haruno Sakura</item>
+
+        <item>Rock Lee</item>
+        <item>Huga Neji</item>
+        <item>Tenten</item>
+
+        <item>Nara Shikamaru</item>
+        <item>Akimichi Choji</item>
+        <item>Yamanaka Ino</item>
+
+        <item>Aburame Shino</item>
+        <item>Huga Hinata</item>
+        <item>Inuzuka Kiba</item>
+
+        <item>Temari</item>
+        <item>Gaara</item>
+        <item>Kankuro</item>
+
+        <item>Hatake Kakashi</item>
+        <item>Rin</item>
+        <item>Uchiha Obito</item>
+
+        <item>Tsunade</item>
+        <item>Jiraya</item>
+        <item>Orochimaru</item>
+
+        <item>Senju Tobirama</item>
+        <item>Sarutobi Hiruzen</item>
+        <item>Senju Hashirama</item>
+
+        <item>Namikaze Minato</item>
+        <item>Uzumaki Kushina</item>
+        <item>Iruka</item>
+
+        <item>Sarutobi Asuma</item>
+        <item>Yuhi Kurenai</item>
+        <item>Maito Guy</item>
+
+        <item>Hidan</item>
+        <item>Konan</item>
+        <item>Uchiha Madara</item>
+        <item>Sasori</item>
+        <item>Deidara</item>
+        <item>Kakuzo</item>
+
+    </string-array>
+
+    <string name="replay">replay</string>
+
+</resources>
